@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+duckduckgo-search
+google-generativeai
+fpdf
